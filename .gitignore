@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 .vscode/
-docs/*
+docs/
+dat/
+mypy/__pycache__/
