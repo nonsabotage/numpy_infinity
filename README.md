@@ -14,7 +14,7 @@
 
 ## 演習問題解答
 
-- [１章　演習問題１](https://colab.research.google.com/drive/1TjmAubnnKPs5Vn_QlZNlx_DH9isjvpkw?usp=sharing)
-
+- [１章　演習問題１ 回答例](https://colab.research.google.com/drive/1TjmAubnnKPs5Vn_QlZNlx_DH9isjvpkw?usp=sharing)
+- [１章　演習問題２ 回答例](https://colab.research.google.com/drive/1gkSXrxM3oyRz6bnSxYYPFzU9F1feYfDT?usp=sharing)
 
 
