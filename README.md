@@ -12,6 +12,15 @@
 - 問題の写し、回答例の写しは公開してはいけない
 - 自分の回答や模範回答へのURLなどは公開してよい
 
+## ノート
+- [CH01　Pythonの基礎](./ch01_Pythonの基礎.html))
+- [CH02　numpyの導入](./ch02_numpyの導入.html))
+- [CH03　行列の導入](./ch03_行列の導入.html))
+- [CH04　テンソルと画像処理](./ch04テンソルと画像処理.html))
+- [CH04　テンソルと画像処理 Q52～](./ch04テンソルと画像処理_Q52.html))
+- [CH04　テンソルと画像処理 Q72～](./ch04テンソルと画像処理_Q72.html))
+
+## リンク
 ### 本文用
 * 1章-1　[https://colab.research.google.com/drive/12OVpCwFJKcHHkewrQC6r_L6SabPN-FLu?usp=sharing](https://colab.research.google.com/drive/12OVpCwFJKcHHkewrQC6r_L6SabPN-FLu?usp=sharing)
 * 1章-2 [https://colab.research.google.com/drive/1abHXslN1N4X4W8MVlbJAPD3U7Uso63Xh?usp=sharing](https://colab.research.google.com/drive/1abHXslN1N4X4W8MVlbJAPD3U7Uso63Xh?usp=sharing)
