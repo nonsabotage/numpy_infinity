@@ -48,3 +48,10 @@ def overlay(img1, img2):
     out  = np.clip(out, 0, 1)
     return out
 
+def yakikomi(img1, img2):
+    epsilon = 1e-8
+    o = 1 - (1 - img1) / (img2 + epsilon)
+    o = np.clip(o, 0, 1)
+    return o
+
+    
